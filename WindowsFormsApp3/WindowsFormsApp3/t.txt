@@ -1,31 +1,31 @@
 Тест ПДР
-1/6.Як рулити?
-Ярік
-Да
-Нет
+1/6.Question 1
+answer 1
+answer 2
+answer 3
 3
-2/6. Як їхать
-Ярік
-Швидко
-Боком
+2/6.Question 2
+answer 1
+answer 2
+answer 3
 3
-3/6.  Вперед?
-Ярік
-Вперед
-Назад
+3/6.Question 3
+answer 1
+answer 2
+answer 3
 3
-4/6. Де фари?
-Ярік
-Вкрали
-Продав
+4/6.Question 4
+answer 1
+answer 2
+answer 3
 3
-5/6. Як продати машину
-Ярік
-На ОЛХ
-За углом
+5/6.Question 5
+answer 1
+answer 2
+answer 3
 1
-6/6. Хто такий Слива?
-Ярік
-Гей
-Гей
+6/6.Question 6
+answer 1
+answer 2
+answer 3
 1
